@@ -25,8 +25,8 @@ This repository contains Tableau visualizations for the Inc5000 2014 dataset. Th
 ## How to View
 
 The visualizations are available in the following formats:
-- **Images**: [Link to images folder]
-- **Interactive Dashboards**: Available on [Tableau Public](https://public.tableau.com/). [Link to your Tableau Public profile/dashboard].
+- **Images**: In pdf
+- **Interactive Dashboards**: Available on [Tableau Public](https://public.tableau.com/). (https://public.tableau.com/views/Inc50002014_17262711247080/StateswithmostITcompanies?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)].
 
 ## Tools Used
 - **Tableau**: For creating visualizations and dashboards.
