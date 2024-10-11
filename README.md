@@ -33,5 +33,5 @@ The visualizations are available in the following formats:
 - **GitHub**: For version control and sharing files.
 
 ## Contact
-For questions or suggestions, feel free to contact me at [your email] or visit my Tableau Public profile [here](https://public.tableau.com/your-profile).
+For questions or suggestions, feel free to contact me at [Kirsten.arries99@gmail.com] or visit my Tableau Public profile.
 
